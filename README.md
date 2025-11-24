@@ -112,3 +112,20 @@ Includes:
 ```bash
 git clone https://github.com/YOUR_USERNAME/CryoET-Object-Identification.git
 cd CryoET-Object-Identification
+```
+
+### **2. Train Model**
+python src/train.py
+
+### **3. Run Inference**
+python src/inference.py --input sample_data/example_tomo.mrc
+---
+📎 ### **References**
+
+CryoET Dataset: https://www.kaggle.com/competitions/czii-cryo-et-object-identification/data
+
+Training Notebook: https://www.kaggle.com/code/eeshakhanzadi/object-czii-competition
+
+📄 ### **License**
+Licensed under the MIT License.
+---
