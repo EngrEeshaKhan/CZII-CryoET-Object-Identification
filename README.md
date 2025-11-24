@@ -119,6 +119,7 @@ cd CryoET-Object-Identification
 python src/train.py
 
 ### **3. Run Inference**
+
 python src/inference.py --input sample_data/example_tomo.mrc
 ---
 ## 🏆 **Model-Performance**
