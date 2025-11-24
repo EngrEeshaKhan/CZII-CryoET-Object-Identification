@@ -27,6 +27,7 @@ This project provides a complete machine-learning workflow for:
 - [Modeling Approach](#-modeling-approach)
 - [Notebook](#-kaggle-notebook)
 - [Usage](#-usage)
+- [ModelPerformance](#-Model-Performance)
 - [References](#-References)
 - [License](#-License)
 
@@ -120,7 +121,7 @@ python src/train.py
 ### **3. Run Inference**
 python src/inference.py --input sample_data/example_tomo.mrc
 ---
-## 🏆 **Model Performance**
+## 🏆 **Model-Performance**
 <img width="673" height="157" alt="image" src="https://github.com/user-attachments/assets/768d4812-bcca-4333-9bfa-4a310a5d0bfe" />
 
 ## 📎 **References**
