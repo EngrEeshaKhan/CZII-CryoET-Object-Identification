@@ -120,10 +120,7 @@ python src/train.py
 
 ### **3. Run Inference**
 
-### **3. Run Inference**
-
-```bash
-python src/inference.py --input sample_data/example_tomo.mrc
+`python src/inference.py --input sample_data/example_tomo.mrc`
 
 ---
 ## 🏆 **Model-Performance**
