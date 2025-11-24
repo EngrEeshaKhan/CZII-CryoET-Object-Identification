@@ -120,6 +120,8 @@ python src/train.py
 ### **3. Run Inference**
 python src/inference.py --input sample_data/example_tomo.mrc
 ---
+## 🏆 **Model Performance**
+<div style="border: 2px solid #009688; padding: 16px; border-radius: 12px; margin: 20px 0;"> <h3>🔬 Achieved Results</h3> <p> The trained model was evaluated on the official Cryo-ET object identification validation set. </p> <table> <thead> <tr> <th>Metric</th> <th>Score</th> <th>Description</th> </tr> </thead> <tbody> <tr> <td><b>mAP@0.50</b></td> <td><b>YOUR_SCORE</b></td> <td>Mean Average Precision at IoU threshold 0.50</td> </tr> <tr> <td><b>mAP@0.50:0.95</b></td> <td><b>YOUR_SCORE</b></td> <td>COCO-style metric across multiple IoU thresholds</td> </tr> <tr> <td><b>Leaderboard Score</b></td> <td><b>YOUR_KAGGLE_SCORE</b></td> <td>Final evaluated score on the official test set</td> </tr> </tbody> </table> <p style="margin-top: 10px;"> These results demonstrate the model’s ability to locate and classify protein complexes within Cryo-ET tomograms with good precision and generalization. </p> </div>
 ## 📎 **References**
 
 CryoET Dataset: https://www.kaggle.com/competitions/czii-cryo-et-object-identification/data
