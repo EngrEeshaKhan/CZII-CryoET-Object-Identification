@@ -44,6 +44,7 @@ This project provides a complete machine-learning workflow for:
 ---
 
 ## 🗂️ Project Structure
+<img width="218" height="293" alt="image" src="https://github.com/user-attachments/assets/c90d6fc8-8695-4a68-ace1-01e69f021350" />
 
 ---
 
