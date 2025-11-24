@@ -27,9 +27,8 @@ This project provides a complete machine-learning workflow for:
 - [Modeling Approach](#-modeling-approach)
 - [Notebook](#-kaggle-notebook)
 - [Usage](#-usage)
-- [Model Weights](#-model-weights)
 - [References](#-references)
-- [License](#-license)
+- [License](#-License)
 
 ---
 
