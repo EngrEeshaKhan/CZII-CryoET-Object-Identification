@@ -120,13 +120,13 @@ python src/train.py
 ### **3. Run Inference**
 python src/inference.py --input sample_data/example_tomo.mrc
 ---
-📎 ### **References**
+## 📎**References**
 
 CryoET Dataset: https://www.kaggle.com/competitions/czii-cryo-et-object-identification/data
 
 Training Notebook: https://www.kaggle.com/code/eeshakhanzadi/object-czii-competition
 
-📄 **License**
+## 📄 **License**
 
 Licensed under the MIT License.
 ---
