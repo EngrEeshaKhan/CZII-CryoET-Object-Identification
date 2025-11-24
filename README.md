@@ -131,6 +131,8 @@ CryoET Dataset: https://www.kaggle.com/competitions/czii-cryo-et-object-identifi
 
 Training Notebook: https://www.kaggle.com/code/eeshakhanzadi/object-czii-competition
 
+## 📄 License
 
+Licensed under the MIT License.
 
 ---
