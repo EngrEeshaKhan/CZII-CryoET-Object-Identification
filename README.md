@@ -1,5 +1,5 @@
 # CZII-CryoET-Object-Identification
-This project builds machine learning models to automatically detect and classify protein complexes in cryo-electron tomography (cryoET) images, enabling scalable analysis of cellular structures and supporting advanced biological and medical research.
+This project actually builds machine learning models to automatically detect and classify protein complexes in cryo-electron tomography (cryoET) images, enabling scalable analysis of cellular structures and supporting advanced biological and medical research.
 # 🧬 Cryo-ET Protein Object Identification
 
 A high-performance deep-learning pipeline for identifying protein complexes in 3D cryo-electron tomography (cryoET) tomograms.  
