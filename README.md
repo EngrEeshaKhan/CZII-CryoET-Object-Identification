@@ -12,11 +12,11 @@ Cryo-electron tomography generates high-resolution 3D views of cellular environm
 These volumes contain thousands of tightly packed protein complexes that need automated identification for biological and medical research.
 
 This project provides a complete machine-learning workflow for:
-- 3D tomogram preprocessing  
-- Feature extraction  
-- Multi-class model training  
-- Inference and predictions  
-- Clean reproducible research structure  
+- 3D tomogram preprocessing.
+- Feature extraction.
+- Multi-class model training.  
+- Inference and predictions.
+- Clean reproducible research structure.  
 
 ---
 
