@@ -74,6 +74,7 @@ preprocessing inlcude steps as:
 - Augmentation (optional)  
 
 ### **2. Architecture**
+the architechture is as follows:
 - 3D-CNN / adapted YOLO-3D style detector  
 - Multi-class classifier  
 - Spatial feature extraction  
