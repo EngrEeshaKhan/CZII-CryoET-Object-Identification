@@ -67,6 +67,7 @@ https://www.kaggle.com/competitions/czii-cryo-et-object-identification/data
 ## 🧠 Modeling Approach
 
 ### **1. Preprocessing**
+preprocessing inlcude steps as:
 - Volume normalization  
 - 3D grid or patch generation  
 - Noise reduction  
