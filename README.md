@@ -86,6 +86,7 @@ following shows the workflow:
 - GPU-trained models  
 
 ### **4. Evaluation Metrics**
+Following metrices are used:
 - Accuracy  
 - F1-score  
 - IoU  
