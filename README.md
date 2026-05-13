@@ -80,6 +80,7 @@ the architechture is as follows:
 - Spatial feature extraction  
 
 ### **3. Training Workflow**
+following shows the workflow: 
 - Balanced dataloading  
 - Weighted loss for rare classes  
 - GPU-trained models  
