@@ -40,7 +40,7 @@ This project provides a complete machine-learning workflow for:
 ✔️ Deep-learning based multi-class identification
 ✔️ Modular and extendable source code
 ✔️ Kaggle-compatible training & inference
-✔️ GPU-ready workflow.
+✔️ GPU-ready workflow
 ✔️ Clear, research-friendly architecture.  
 
 ---
