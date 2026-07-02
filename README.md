@@ -41,7 +41,7 @@ This project provides a complete machine-learning workflow for:
 ✔️ Modular and extendable source code
 ✔️ Kaggle-compatible training & inference
 ✔️ GPU-ready workflow
-✔️ Clear, research-friendly architecture.  
+✔️ Clear, research-friendly architecture
 
 ---
 
