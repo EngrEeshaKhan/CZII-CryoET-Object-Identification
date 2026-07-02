@@ -37,7 +37,7 @@ This project provides a complete machine-learning workflow for:
 
 ## ⚡ Features
 ✔️ 3D tomogram ingestion & preprocessing
-✔️ Deep-learning based multi-class identification.
+✔️ Deep-learning based multi-class identification
 ✔️ Modular and extendable source code.
 ✔️ Kaggle-compatible training & inference.
 ✔️ GPU-ready workflow.
