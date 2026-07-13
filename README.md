@@ -140,6 +140,6 @@ Training Notebook: https://www.kaggle.com/code/eeshakhanzadi/object-czii-competi
 
 ## 📄 License
 
-Licensed under the MIT License
+Licensed under the MIT License.
 
 ---
