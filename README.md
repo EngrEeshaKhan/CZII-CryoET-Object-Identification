@@ -10,7 +10,7 @@ Designed for clarity, reproducibility, and professional research use
 ---
 
 ## 📘 Overview
-Cryo-electron tomography generates high-resolution 3D views of cellular environments.  
+Cryo-electron tomography generates high-resolution 3D views of cellular environments 
 These volumes contain thousands of tightly packed protein complexes that need automated identification for biological and medical research
 
 This project provides a complete machine-learning workflow for:
