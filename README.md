@@ -5,7 +5,7 @@ This project leverages machine learning models to automatically identify and cla
 # 🧬 Cryo-ET Protein Object Identification
 
 A high-performance deep-learning pipeline for identifying protein complexes in 3D cryo-electron tomography (cryoET) tomograms
-Designed for clarity, reproducibility, and professional research use.
+Designed for clarity, reproducibility, and professional research use
 
 ---
 
